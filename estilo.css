@@ -234,6 +234,11 @@ article h3 {
     top: 2486px;
 }
 
+input:focus,
+textarea:focus {
+    outline-color: #966bf2;
+}
+
 #nome,
 #email,
 #telefone-form,
